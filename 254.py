@@ -6,4 +6,4 @@ if a1 == b1 or a2 == b2:
     print("YES")
 else:
     print("NO")
-    print("No...")
+    print("YES!!!")
